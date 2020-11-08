@@ -1,7 +1,9 @@
-# \<paper-card>
+# Paper Card
 
-This web component follows the [open-wc](https://github.com/open-wc/open-wc) recommendation.
+🃏 Customizable playing card web component. This web component follows the [open-wc](https://github.com/open-wc/open-wc) recommendation.
 
+[![Generic badge](https://img.shields.io/badge/license-MIT-darkcyan.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Status-Alpha-orange.svg)](https://shields.io/)
 ## Installation
 ```bash
 npm i paper-card
@@ -23,8 +25,9 @@ npm i paper-card
 ></paper-card>
 ```
 
-## Local Demo with `web-dev-server`
+## Local Demo
+To run a local development server that serves the basic demo located in `demo/index.html`
 ```bash
+cd paper-card
 npm start
 ```
-To run a local development server that serves the basic demo located in `demo/index.html`
